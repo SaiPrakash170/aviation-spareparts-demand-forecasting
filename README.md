@@ -79,7 +79,7 @@ The dataset is simulated, not sourced from an operational airline. It was calibr
 If you use this code or dataset, please cite:
 
 ```
-Sara (2026). Gradient Boosting vs. Croston-Type Models for Forecasting
+Veera Sai Prakash (2026). Gradient Boosting vs. Croston-Type Models for Forecasting
 Intermittent Spare-Parts Demand: Evidence from Publicly Available Aviation
 Maintenance Data. Master's thesis, Hochschule Fresenius.
 ```
