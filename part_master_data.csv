@@ -1,0 +1,501 @@
+part_id,ata_chapter,ata_description,part_type,criticality,aircraft_type,demand_category,unit_cost_usd,lead_time_weeks,fleet_size,mtbf_flight_hours
+PN-10000,27,Flight Controls,Expendable,Essential,B737,Intermittent,22.75,2,28,10811.0
+PN-10001,72,Engine - Turbine/Turboprop,Expendable,Deferrable,A320,Erratic,74.72,1,62,4673.0
+PN-10002,32,Landing Gear,Rotable,Routine,A321,Smooth,17439.53,8,68,5734.0
+PN-10003,25,Equipment/Furnishings,Expendable,Essential,A320,Lumpy,28.45,4,13,3192.0
+PN-10004,22,Auto Flight,Expendable,Essential,A320,Intermittent,309.15,2,10,5495.0
+PN-10005,24,Electrical Power,Rotable,Deferrable,B737,Lumpy,3087.1,12,18,6091.0
+PN-10006,35,Oxygen,Rotable,Essential,A320,Intermittent,2266.0,12,30,14583.0
+PN-10007,80,Starting,Repairable,AOG-Critical,B737,Smooth,880.21,8,5,7981.0
+PN-10008,76,Engine Controls,Rotable,Essential,B737,Lumpy,30888.16,10,32,13357.0
+PN-10009,28,Fuel,Repairable,AOG-Critical,A321,Intermittent,2150.81,4,48,14563.0
+PN-10010,79,Oil,Repairable,Essential,B787,Lumpy,710.69,3,31,9273.0
+PN-10011,35,Oxygen,Rotable,Essential,A320,Lumpy,34236.58,8,8,13891.0
+PN-10012,74,Ignition,Expendable,Routine,A320,Lumpy,1026.98,3,46,8465.0
+PN-10013,77,Engine Indicating,Rotable,Routine,A320,Intermittent,35899.54,12,66,2880.0
+PN-10014,77,Engine Indicating,Expendable,AOG-Critical,A321,Intermittent,108.91,2,55,9041.0
+PN-10015,76,Engine Controls,Expendable,Essential,A330,Lumpy,13.82,2,62,14549.0
+PN-10016,27,Flight Controls,Repairable,Essential,A320,Smooth,1920.29,2,5,5875.0
+PN-10017,22,Auto Flight,Repairable,Essential,A330,Intermittent,21231.52,2,60,5852.0
+PN-10018,26,Fire Protection,Repairable,Routine,A350,Intermittent,671.47,2,24,4608.0
+PN-10019,24,Electrical Power,Rotable,Routine,A320,Intermittent,6771.26,6,37,5181.0
+PN-10020,27,Flight Controls,Expendable,AOG-Critical,A321,Erratic,304.99,3,64,8912.0
+PN-10021,21,Air Conditioning,Rotable,Deferrable,B777,Intermittent,3050.2,8,23,6082.0
+PN-10022,23,Communications,Expendable,Essential,B777,Lumpy,324.08,2,29,3061.0
+PN-10023,34,Navigation,Repairable,Routine,A350,Erratic,10813.97,6,37,5951.0
+PN-10024,36,Pneumatic,Expendable,Routine,B737,Intermittent,24.5,2,26,3952.0
+PN-10025,26,Fire Protection,Expendable,Routine,B777,Intermittent,112.03,2,32,7351.0
+PN-10026,21,Air Conditioning,Rotable,Routine,A320,Smooth,3695.71,16,50,9319.0
+PN-10027,23,Communications,Expendable,Deferrable,A321,Intermittent,185.62,2,64,6971.0
+PN-10028,72,Engine - Turbine/Turboprop,Rotable,Essential,A321,Intermittent,49791.31,16,50,4166.0
+PN-10029,35,Oxygen,Expendable,AOG-Critical,A330,Lumpy,54.43,3,37,7049.0
+PN-10030,73,Engine Fuel and Control,Repairable,Essential,B737,Lumpy,3026.15,6,69,3851.0
+PN-10031,34,Navigation,Expendable,Deferrable,A321,Intermittent,29117.58,1,67,1252.0
+PN-10032,77,Engine Indicating,Rotable,Deferrable,B737,Lumpy,20441.11,8,12,6390.0
+PN-10033,32,Landing Gear,Expendable,Routine,B737,Erratic,5.36,2,59,3107.0
+PN-10034,36,Pneumatic,Expendable,Routine,A321,Lumpy,46.21,1,66,8688.0
+PN-10035,29,Hydraulic Power,Expendable,AOG-Critical,B777,Intermittent,7.36,1,52,7743.0
+PN-10036,33,Lights,Repairable,Deferrable,B737,Intermittent,479.7,3,20,2111.0
+PN-10037,73,Engine Fuel and Control,Rotable,AOG-Critical,A320,Smooth,122083.31,12,73,12113.0
+PN-10038,78,Exhaust,Expendable,Deferrable,A321,Intermittent,47.94,4,38,2826.0
+PN-10039,30,Ice and Rain Protection,Expendable,Routine,B737,Intermittent,110.92,1,28,9551.0
+PN-10040,22,Auto Flight,Rotable,Routine,B787,Intermittent,89609.82,8,55,8565.0
+PN-10041,32,Landing Gear,Repairable,Deferrable,B777,Erratic,524.36,2,50,1128.0
+PN-10042,52,Doors,Expendable,Essential,A350,Intermittent,16.65,1,11,4418.0
+PN-10043,72,Engine - Turbine/Turboprop,Repairable,Deferrable,A320,Intermittent,6515.38,8,40,2242.0
+PN-10044,29,Hydraulic Power,Repairable,Routine,B737,Erratic,2957.62,6,41,3909.0
+PN-10045,74,Ignition,Expendable,Routine,A320,Lumpy,9.1,2,17,9164.0
+PN-10046,38,Water/Waste,Rotable,Deferrable,B737,Intermittent,15127.68,8,20,4139.0
+PN-10047,23,Communications,Expendable,Routine,A320,Lumpy,134.49,3,43,2730.0
+PN-10048,30,Ice and Rain Protection,Expendable,Deferrable,A320,Lumpy,1367.17,4,13,6331.0
+PN-10049,32,Landing Gear,Expendable,Deferrable,A321,Erratic,165.15,2,31,5944.0
+PN-10050,25,Equipment/Furnishings,Repairable,Essential,A330,Lumpy,1316.37,8,49,12041.0
+PN-10051,26,Fire Protection,Expendable,Routine,A321,Lumpy,179.05,1,23,2890.0
+PN-10052,23,Communications,Repairable,Essential,A330,Lumpy,3454.93,6,7,10000.0
+PN-10053,77,Engine Indicating,Repairable,Essential,B777,Erratic,3090.31,8,48,14735.0
+PN-10054,33,Lights,Rotable,Deferrable,A330,Lumpy,15021.1,16,22,2164.0
+PN-10055,38,Water/Waste,Expendable,Routine,A350,Intermittent,28.23,4,61,9322.0
+PN-10056,30,Ice and Rain Protection,Expendable,Deferrable,A321,Intermittent,25.54,2,62,2606.0
+PN-10057,80,Starting,Rotable,Deferrable,B787,Intermittent,6507.62,8,37,3878.0
+PN-10058,33,Lights,Expendable,Essential,B777,Lumpy,12.42,4,9,3316.0
+PN-10059,21,Air Conditioning,Expendable,Routine,B787,Intermittent,1404.15,3,63,8737.0
+PN-10060,33,Lights,Rotable,AOG-Critical,A320,Smooth,17368.61,8,9,19950.0
+PN-10061,72,Engine - Turbine/Turboprop,Repairable,Routine,B737,Intermittent,1113.9,3,77,3033.0
+PN-10062,52,Doors,Repairable,Essential,B777,Lumpy,1805.09,4,7,9242.0
+PN-10063,32,Landing Gear,Expendable,Deferrable,A320,Lumpy,47.51,2,51,3944.0
+PN-10064,25,Equipment/Furnishings,Expendable,Routine,A320,Erratic,6.71,2,67,7811.0
+PN-10065,77,Engine Indicating,Repairable,Routine,A321,Intermittent,7664.38,6,9,8372.0
+PN-10066,30,Ice and Rain Protection,Expendable,Routine,A320,Intermittent,89.18,2,47,3921.0
+PN-10067,52,Doors,Repairable,Routine,A330,Intermittent,2705.71,4,8,3455.0
+PN-10068,76,Engine Controls,Repairable,Deferrable,A330,Lumpy,461.43,6,46,2239.0
+PN-10069,72,Engine - Turbine/Turboprop,Repairable,Routine,A321,Lumpy,2993.23,2,49,4573.0
+PN-10070,78,Exhaust,Expendable,Routine,A320,Lumpy,322.8,3,56,3675.0
+PN-10071,76,Engine Controls,Repairable,Routine,A321,Intermittent,972.27,6,18,3182.0
+PN-10072,52,Doors,Expendable,Deferrable,A330,Intermittent,74.3,2,19,1734.0
+PN-10073,74,Ignition,Repairable,AOG-Critical,A321,Erratic,695.38,3,48,8498.0
+PN-10074,33,Lights,Repairable,Routine,B737,Intermittent,1953.48,4,12,6692.0
+PN-10075,32,Landing Gear,Rotable,Essential,A321,Intermittent,4752.66,10,60,8979.0
+PN-10076,26,Fire Protection,Expendable,Essential,A320,Erratic,33.92,1,66,12670.0
+PN-10077,76,Engine Controls,Expendable,AOG-Critical,A330,Intermittent,43.35,4,10,10968.0
+PN-10078,80,Starting,Expendable,AOG-Critical,B787,Intermittent,306.06,3,79,13574.0
+PN-10079,52,Doors,Expendable,Essential,B787,Lumpy,210.64,1,24,5909.0
+PN-10080,35,Oxygen,Expendable,Routine,A320,Intermittent,66.89,2,10,4693.0
+PN-10081,30,Ice and Rain Protection,Repairable,Routine,A320,Intermittent,2912.68,2,67,7452.0
+PN-10082,38,Water/Waste,Rotable,Routine,A350,Lumpy,6824.74,16,79,9507.0
+PN-10083,32,Landing Gear,Repairable,Deferrable,B737,Smooth,8143.91,6,15,6567.0
+PN-10084,34,Navigation,Expendable,Deferrable,A320,Erratic,274.11,2,46,3747.0
+PN-10085,28,Fuel,Repairable,Routine,B777,Intermittent,2306.43,4,67,6022.0
+PN-10086,77,Engine Indicating,Repairable,Essential,A330,Smooth,2303.11,4,71,10532.0
+PN-10087,28,Fuel,Expendable,Essential,B777,Intermittent,9.06,3,31,12463.0
+PN-10088,26,Fire Protection,Expendable,Routine,B737,Erratic,241.79,2,78,4737.0
+PN-10089,26,Fire Protection,Repairable,Essential,A321,Intermittent,728.39,4,12,4799.0
+PN-10090,35,Oxygen,Repairable,Routine,A320,Intermittent,9958.32,4,24,3453.0
+PN-10091,30,Ice and Rain Protection,Repairable,Essential,A321,Intermittent,3032.12,4,17,4669.0
+PN-10092,49,Airborne Auxiliary Power,Expendable,AOG-Critical,B777,Lumpy,1304.07,4,76,14771.0
+PN-10093,38,Water/Waste,Repairable,Routine,A321,Lumpy,3262.58,8,15,5607.0
+PN-10094,34,Navigation,Rotable,Essential,A320,Lumpy,3035.3,6,19,7788.0
+PN-10095,29,Hydraulic Power,Expendable,Essential,B737,Intermittent,17.3,1,29,13362.0
+PN-10096,26,Fire Protection,Repairable,Essential,B737,Intermittent,1394.66,2,28,9932.0
+PN-10097,71,Power Plant,Repairable,Deferrable,A321,Intermittent,402.16,4,32,2489.0
+PN-10098,38,Water/Waste,Rotable,Deferrable,A320,Intermittent,293030.44,4,55,2469.0
+PN-10099,52,Doors,Repairable,Routine,A350,Intermittent,1918.35,6,23,2526.0
+PN-10100,34,Navigation,Expendable,Routine,A330,Intermittent,980.02,1,12,8894.0
+PN-10101,27,Flight Controls,Expendable,Essential,B777,Intermittent,87.63,3,59,4874.0
+PN-10102,49,Airborne Auxiliary Power,Expendable,Essential,A330,Intermittent,93.54,2,71,13650.0
+PN-10103,80,Starting,Rotable,AOG-Critical,A320,Lumpy,2457.7,12,20,10958.0
+PN-10104,25,Equipment/Furnishings,Rotable,Essential,A321,Smooth,68581.89,12,23,9996.0
+PN-10105,80,Starting,Expendable,Deferrable,A350,Intermittent,285.68,3,71,5132.0
+PN-10106,32,Landing Gear,Expendable,Essential,B737,Intermittent,51.91,4,28,4371.0
+PN-10107,76,Engine Controls,Expendable,Routine,A320,Intermittent,182.84,2,13,6333.0
+PN-10108,33,Lights,Repairable,Essential,A350,Intermittent,5448.12,6,46,9918.0
+PN-10109,26,Fire Protection,Rotable,Essential,A321,Lumpy,53194.51,6,31,13800.0
+PN-10110,26,Fire Protection,Expendable,Essential,A350,Intermittent,533.4,2,66,9227.0
+PN-10111,22,Auto Flight,Rotable,Routine,A320,Intermittent,18188.88,6,25,8697.0
+PN-10112,31,Indicating/Recording Systems,Repairable,Routine,A320,Intermittent,14491.46,8,73,5870.0
+PN-10113,78,Exhaust,Rotable,Essential,A330,Smooth,9269.97,8,77,12251.0
+PN-10114,72,Engine - Turbine/Turboprop,Repairable,Essential,A321,Lumpy,702.97,2,48,14612.0
+PN-10115,26,Fire Protection,Repairable,Essential,A320,Lumpy,18086.33,2,78,11287.0
+PN-10116,38,Water/Waste,Rotable,Routine,B777,Lumpy,26153.77,10,74,9845.0
+PN-10117,49,Airborne Auxiliary Power,Repairable,Essential,B787,Lumpy,5328.26,2,14,10059.0
+PN-10118,38,Water/Waste,Rotable,Routine,B777,Smooth,3650.91,16,63,9554.0
+PN-10119,49,Airborne Auxiliary Power,Expendable,AOG-Critical,A321,Intermittent,436.91,2,18,13944.0
+PN-10120,23,Communications,Repairable,Routine,B777,Intermittent,225.88,4,8,8326.0
+PN-10121,77,Engine Indicating,Expendable,Routine,A321,Lumpy,13.12,2,46,9923.0
+PN-10122,79,Oil,Expendable,Routine,B787,Lumpy,41.43,2,61,6646.0
+PN-10123,32,Landing Gear,Expendable,Routine,A321,Intermittent,745.47,3,53,2884.0
+PN-10124,34,Navigation,Repairable,Deferrable,B737,Intermittent,2864.29,2,19,3690.0
+PN-10125,76,Engine Controls,Rotable,Deferrable,B737,Intermittent,9900.32,10,43,7154.0
+PN-10126,34,Navigation,Expendable,Deferrable,B787,Lumpy,71.97,3,58,5254.0
+PN-10127,33,Lights,Rotable,AOG-Critical,A321,Smooth,6055.39,16,10,17012.0
+PN-10128,73,Engine Fuel and Control,Expendable,Deferrable,B777,Lumpy,51.41,3,66,7974.0
+PN-10129,23,Communications,Expendable,Essential,A320,Intermittent,15.48,2,18,13322.0
+PN-10130,31,Indicating/Recording Systems,Expendable,Essential,A320,Lumpy,203.42,2,63,6377.0
+PN-10131,80,Starting,Repairable,Essential,B737,Intermittent,5343.36,2,64,4314.0
+PN-10132,80,Starting,Rotable,Deferrable,A321,Intermittent,56769.45,8,44,4960.0
+PN-10133,33,Lights,Expendable,Routine,B777,Erratic,150.61,1,52,7667.0
+PN-10134,31,Indicating/Recording Systems,Rotable,Deferrable,A320,Intermittent,16878.96,16,35,6781.0
+PN-10135,30,Ice and Rain Protection,Expendable,Essential,B777,Smooth,70.95,2,16,3077.0
+PN-10136,33,Lights,Expendable,Deferrable,A350,Intermittent,237.04,3,74,2983.0
+PN-10137,27,Flight Controls,Repairable,Deferrable,A321,Intermittent,15728.89,8,26,7561.0
+PN-10138,24,Electrical Power,Rotable,Essential,B737,Smooth,1522.41,10,54,14882.0
+PN-10139,35,Oxygen,Expendable,Routine,A320,Lumpy,382.8,1,15,8572.0
+PN-10140,35,Oxygen,Repairable,Routine,B737,Intermittent,424.96,3,33,7549.0
+PN-10141,71,Power Plant,Expendable,Routine,A320,Erratic,3.33,3,60,5459.0
+PN-10142,72,Engine - Turbine/Turboprop,Expendable,Deferrable,B787,Lumpy,5.64,2,42,2610.0
+PN-10143,23,Communications,Rotable,Routine,A321,Lumpy,6768.24,8,76,3274.0
+PN-10144,77,Engine Indicating,Expendable,Routine,B737,Lumpy,236.06,1,57,9295.0
+PN-10145,78,Exhaust,Expendable,Routine,A321,Erratic,660.98,1,13,3604.0
+PN-10146,77,Engine Indicating,Rotable,Routine,A321,Intermittent,19067.69,6,25,2580.0
+PN-10147,49,Airborne Auxiliary Power,Repairable,Routine,A320,Intermittent,1735.66,6,45,2317.0
+PN-10148,73,Engine Fuel and Control,Expendable,AOG-Critical,A320,Intermittent,88.14,1,37,13395.0
+PN-10149,49,Airborne Auxiliary Power,Repairable,Routine,A320,Intermittent,1232.52,2,30,5175.0
+PN-10150,22,Auto Flight,Expendable,Essential,B737,Lumpy,104.86,4,65,11478.0
+PN-10151,26,Fire Protection,Repairable,Routine,A350,Intermittent,1374.67,8,76,7713.0
+PN-10152,71,Power Plant,Repairable,Deferrable,A320,Lumpy,6750.65,4,7,1285.0
+PN-10153,80,Starting,Expendable,AOG-Critical,A320,Erratic,121.07,1,49,14236.0
+PN-10154,52,Doors,Expendable,Essential,A320,Lumpy,86.79,2,22,10839.0
+PN-10155,25,Equipment/Furnishings,Expendable,Deferrable,A350,Erratic,2238.15,3,58,1215.0
+PN-10156,21,Air Conditioning,Expendable,Essential,B787,Intermittent,160.02,3,24,9058.0
+PN-10157,49,Airborne Auxiliary Power,Expendable,Routine,A321,Lumpy,422.85,2,70,6782.0
+PN-10158,24,Electrical Power,Repairable,Essential,A330,Lumpy,3080.54,4,19,5830.0
+PN-10159,78,Exhaust,Expendable,Deferrable,A320,Erratic,13.73,4,41,6981.0
+PN-10160,33,Lights,Repairable,AOG-Critical,A321,Intermittent,11066.66,2,21,10866.0
+PN-10161,77,Engine Indicating,Repairable,Deferrable,A320,Intermittent,4379.66,4,40,7789.0
+PN-10162,35,Oxygen,Rotable,Deferrable,A321,Intermittent,138862.73,6,9,2741.0
+PN-10163,31,Indicating/Recording Systems,Expendable,Essential,A321,Intermittent,37.15,2,51,10966.0
+PN-10164,25,Equipment/Furnishings,Expendable,Routine,A321,Lumpy,968.75,1,6,2984.0
+PN-10165,25,Equipment/Furnishings,Expendable,AOG-Critical,A320,Intermittent,2868.91,4,73,6550.0
+PN-10166,52,Doors,Rotable,AOG-Critical,B787,Lumpy,40118.51,8,47,12333.0
+PN-10167,32,Landing Gear,Repairable,AOG-Critical,A320,Erratic,2556.74,8,12,19549.0
+PN-10168,21,Air Conditioning,Expendable,Essential,A320,Lumpy,301.2,4,47,11199.0
+PN-10169,49,Airborne Auxiliary Power,Rotable,Deferrable,B777,Lumpy,3094.04,6,50,7431.0
+PN-10170,21,Air Conditioning,Rotable,Routine,A321,Intermittent,19209.54,16,74,4545.0
+PN-10171,21,Air Conditioning,Repairable,Deferrable,B737,Intermittent,850.41,6,72,5554.0
+PN-10172,26,Fire Protection,Repairable,Routine,B737,Lumpy,1342.7,6,58,7193.0
+PN-10173,72,Engine - Turbine/Turboprop,Repairable,Essential,A321,Intermittent,7156.0,3,37,5851.0
+PN-10174,38,Water/Waste,Repairable,AOG-Critical,A330,Erratic,6432.88,4,30,19272.0
+PN-10175,22,Auto Flight,Repairable,AOG-Critical,A321,Intermittent,3632.72,3,41,8691.0
+PN-10176,24,Electrical Power,Expendable,Routine,B737,Lumpy,281.01,1,79,5041.0
+PN-10177,24,Electrical Power,Expendable,Essential,A320,Intermittent,137.25,1,56,11041.0
+PN-10178,35,Oxygen,Repairable,Routine,A320,Lumpy,2480.46,6,79,2986.0
+PN-10179,32,Landing Gear,Rotable,Routine,B737,Erratic,12336.67,10,46,9342.0
+PN-10180,71,Power Plant,Repairable,Deferrable,A330,Smooth,2898.54,4,25,7189.0
+PN-10181,29,Hydraulic Power,Expendable,Routine,A320,Intermittent,110.92,4,28,4827.0
+PN-10182,78,Exhaust,Repairable,Essential,B737,Lumpy,5058.57,6,78,8421.0
+PN-10183,49,Airborne Auxiliary Power,Rotable,Essential,B777,Intermittent,26469.61,8,26,3284.0
+PN-10184,35,Oxygen,Rotable,Essential,A350,Intermittent,6929.1,6,68,4637.0
+PN-10185,72,Engine - Turbine/Turboprop,Expendable,Essential,A321,Lumpy,115.05,1,28,4541.0
+PN-10186,52,Doors,Expendable,Essential,B777,Lumpy,303.17,2,77,6880.0
+PN-10187,79,Oil,Repairable,Routine,A321,Lumpy,487.86,4,48,3870.0
+PN-10188,72,Engine - Turbine/Turboprop,Repairable,Routine,B737,Erratic,465.33,2,48,7295.0
+PN-10189,38,Water/Waste,Expendable,Essential,A321,Intermittent,67.79,1,73,5104.0
+PN-10190,35,Oxygen,Rotable,Routine,A320,Intermittent,5526.8,10,7,9417.0
+PN-10191,33,Lights,Rotable,Deferrable,A320,Lumpy,58883.24,12,69,6894.0
+PN-10192,72,Engine - Turbine/Turboprop,Rotable,Essential,B737,Lumpy,16099.01,6,18,4412.0
+PN-10193,74,Ignition,Repairable,Essential,A320,Lumpy,21284.49,4,79,12903.0
+PN-10194,74,Ignition,Expendable,Deferrable,A320,Lumpy,1135.17,2,16,7514.0
+PN-10195,30,Ice and Rain Protection,Repairable,Routine,A350,Intermittent,12004.49,6,71,8320.0
+PN-10196,71,Power Plant,Expendable,Essential,A320,Erratic,262.02,2,58,6765.0
+PN-10197,34,Navigation,Rotable,Deferrable,B737,Intermittent,15433.11,16,10,2025.0
+PN-10198,72,Engine - Turbine/Turboprop,Rotable,Routine,A330,Erratic,17858.59,16,24,5516.0
+PN-10199,80,Starting,Expendable,AOG-Critical,A320,Intermittent,21.03,2,35,5920.0
+PN-10200,52,Doors,Rotable,Essential,A321,Lumpy,2219.3,8,13,4707.0
+PN-10201,29,Hydraulic Power,Expendable,Essential,A320,Intermittent,338.04,2,8,14960.0
+PN-10202,38,Water/Waste,Rotable,Essential,A320,Intermittent,23499.23,12,67,8397.0
+PN-10203,23,Communications,Repairable,Essential,B737,Lumpy,3752.26,6,59,7994.0
+PN-10204,79,Oil,Repairable,Routine,A330,Intermittent,2857.03,3,57,8412.0
+PN-10205,33,Lights,Rotable,Essential,A320,Intermittent,3189.7,8,59,4791.0
+PN-10206,24,Electrical Power,Expendable,Essential,A350,Lumpy,410.7,2,46,13705.0
+PN-10207,29,Hydraulic Power,Rotable,Routine,B787,Lumpy,19638.81,4,14,9443.0
+PN-10208,80,Starting,Expendable,Deferrable,A321,Intermittent,9.35,3,49,2051.0
+PN-10209,32,Landing Gear,Repairable,Routine,A320,Smooth,1372.34,6,55,2570.0
+PN-10210,76,Engine Controls,Rotable,Routine,A321,Intermittent,3670.22,8,12,4120.0
+PN-10211,26,Fire Protection,Rotable,Routine,B777,Lumpy,1580.73,6,77,5056.0
+PN-10212,49,Airborne Auxiliary Power,Rotable,Essential,A320,Smooth,12931.35,12,14,12585.0
+PN-10213,32,Landing Gear,Repairable,AOG-Critical,A321,Lumpy,3210.91,4,36,14847.0
+PN-10214,31,Indicating/Recording Systems,Rotable,AOG-Critical,A330,Smooth,37505.58,8,26,9107.0
+PN-10215,71,Power Plant,Rotable,Essential,B777,Intermittent,1037.52,6,36,6803.0
+PN-10216,27,Flight Controls,Expendable,Deferrable,A320,Lumpy,555.9,3,11,2264.0
+PN-10217,31,Indicating/Recording Systems,Repairable,Routine,A320,Intermittent,1571.77,6,6,3054.0
+PN-10218,35,Oxygen,Rotable,Deferrable,A321,Erratic,4152.64,12,60,5284.0
+PN-10219,73,Engine Fuel and Control,Repairable,Routine,B777,Intermittent,307.17,6,12,5692.0
+PN-10220,36,Pneumatic,Expendable,Routine,B777,Intermittent,130.0,3,14,7939.0
+PN-10221,34,Navigation,Expendable,Essential,A321,Lumpy,66.94,2,62,3424.0
+PN-10222,38,Water/Waste,Rotable,Routine,B737,Intermittent,28597.92,8,62,4946.0
+PN-10223,24,Electrical Power,Expendable,Deferrable,A330,Intermittent,183.63,2,25,1203.0
+PN-10224,34,Navigation,Repairable,Routine,A320,Intermittent,16551.82,2,62,6492.0
+PN-10225,24,Electrical Power,Rotable,Routine,A330,Intermittent,9365.42,4,23,5986.0
+PN-10226,34,Navigation,Rotable,Routine,B737,Lumpy,25950.01,8,49,3180.0
+PN-10227,74,Ignition,Expendable,Essential,A321,Smooth,42.92,3,51,14980.0
+PN-10228,80,Starting,Repairable,Essential,A350,Intermittent,3118.54,8,79,11880.0
+PN-10229,78,Exhaust,Repairable,Essential,A321,Intermittent,703.86,2,74,9217.0
+PN-10230,33,Lights,Expendable,AOG-Critical,B737,Erratic,31.91,2,25,11873.0
+PN-10231,25,Equipment/Furnishings,Expendable,Routine,A320,Lumpy,3.2,4,28,7836.0
+PN-10232,26,Fire Protection,Rotable,Essential,A320,Intermittent,12525.31,4,28,3685.0
+PN-10233,73,Engine Fuel and Control,Repairable,Essential,B777,Erratic,4076.35,3,58,8147.0
+PN-10234,77,Engine Indicating,Expendable,AOG-Critical,A321,Smooth,104.84,2,11,6296.0
+PN-10235,35,Oxygen,Rotable,Routine,B787,Intermittent,3438.42,16,46,8623.0
+PN-10236,76,Engine Controls,Repairable,Routine,B787,Intermittent,595.62,4,23,4470.0
+PN-10237,72,Engine - Turbine/Turboprop,Expendable,Essential,A320,Erratic,210.73,1,75,11205.0
+PN-10238,21,Air Conditioning,Repairable,AOG-Critical,B777,Lumpy,2156.93,4,74,8392.0
+PN-10239,22,Auto Flight,Repairable,Essential,B787,Lumpy,1252.59,4,20,7941.0
+PN-10240,27,Flight Controls,Repairable,AOG-Critical,A330,Lumpy,946.49,6,68,10097.0
+PN-10241,72,Engine - Turbine/Turboprop,Rotable,Essential,B737,Intermittent,12448.33,6,18,5866.0
+PN-10242,29,Hydraulic Power,Repairable,Routine,A330,Intermittent,1382.34,3,46,5983.0
+PN-10243,26,Fire Protection,Repairable,Routine,A321,Smooth,900.6,4,15,3630.0
+PN-10244,30,Ice and Rain Protection,Rotable,Essential,B737,Intermittent,47079.13,6,46,8371.0
+PN-10245,26,Fire Protection,Expendable,Essential,B737,Lumpy,11.35,1,44,9085.0
+PN-10246,80,Starting,Rotable,Essential,B777,Intermittent,10515.08,10,23,13589.0
+PN-10247,32,Landing Gear,Expendable,Essential,B787,Intermittent,15.72,1,34,10616.0
+PN-10248,24,Electrical Power,Expendable,Deferrable,A350,Erratic,36.41,1,24,7232.0
+PN-10249,25,Equipment/Furnishings,Expendable,Essential,A320,Lumpy,136.4,1,64,6772.0
+PN-10250,31,Indicating/Recording Systems,Expendable,Routine,A321,Intermittent,110.09,2,25,2904.0
+PN-10251,78,Exhaust,Rotable,Essential,A320,Intermittent,15295.98,8,62,10365.0
+PN-10252,74,Ignition,Expendable,Essential,B737,Intermittent,95.29,1,20,4276.0
+PN-10253,23,Communications,Expendable,AOG-Critical,A320,Lumpy,110.31,1,76,6090.0
+PN-10254,23,Communications,Expendable,Routine,A321,Erratic,194.58,3,43,8459.0
+PN-10255,80,Starting,Expendable,Essential,B777,Intermittent,117.85,2,50,8524.0
+PN-10256,24,Electrical Power,Repairable,AOG-Critical,A321,Lumpy,1239.36,4,18,18771.0
+PN-10257,74,Ignition,Rotable,Routine,B787,Lumpy,13099.4,10,32,2144.0
+PN-10258,27,Flight Controls,Expendable,Routine,A350,Intermittent,28.09,1,57,6326.0
+PN-10259,28,Fuel,Repairable,AOG-Critical,A330,Intermittent,14636.66,6,57,9459.0
+PN-10260,79,Oil,Expendable,Routine,A320,Lumpy,52.69,2,59,6251.0
+PN-10261,38,Water/Waste,Repairable,Essential,A320,Lumpy,4001.34,4,25,3764.0
+PN-10262,71,Power Plant,Rotable,Routine,B737,Intermittent,3482.46,8,56,5547.0
+PN-10263,28,Fuel,Expendable,Essential,B737,Intermittent,76.33,3,32,5810.0
+PN-10264,32,Landing Gear,Repairable,Routine,B787,Intermittent,1888.62,4,10,9132.0
+PN-10265,49,Airborne Auxiliary Power,Repairable,Routine,A320,Erratic,9848.27,3,69,5604.0
+PN-10266,33,Lights,Repairable,Essential,A350,Intermittent,1963.41,2,50,3594.0
+PN-10267,28,Fuel,Rotable,AOG-Critical,A321,Lumpy,2323.75,10,66,10952.0
+PN-10268,73,Engine Fuel and Control,Expendable,Essential,A320,Intermittent,55.78,2,45,3356.0
+PN-10269,31,Indicating/Recording Systems,Rotable,Routine,B777,Erratic,5139.8,8,23,5288.0
+PN-10270,28,Fuel,Expendable,Essential,A350,Intermittent,252.6,1,34,6091.0
+PN-10271,74,Ignition,Rotable,Deferrable,A320,Intermittent,22105.87,12,40,3583.0
+PN-10272,52,Doors,Repairable,Routine,B777,Intermittent,5622.21,4,33,7429.0
+PN-10273,22,Auto Flight,Expendable,Routine,A330,Erratic,26.61,1,43,8990.0
+PN-10274,71,Power Plant,Expendable,Routine,A330,Lumpy,144.81,2,59,6618.0
+PN-10275,78,Exhaust,Expendable,Deferrable,A320,Intermittent,1558.38,3,42,6919.0
+PN-10276,73,Engine Fuel and Control,Expendable,Essential,A320,Intermittent,133.43,1,36,12869.0
+PN-10277,80,Starting,Repairable,Routine,A320,Lumpy,5172.93,2,61,2219.0
+PN-10278,80,Starting,Expendable,Essential,A320,Intermittent,21.19,1,64,7547.0
+PN-10279,23,Communications,Repairable,AOG-Critical,A321,Intermittent,1175.96,4,73,12966.0
+PN-10280,36,Pneumatic,Rotable,Deferrable,A321,Intermittent,12642.71,4,63,4723.0
+PN-10281,33,Lights,Repairable,AOG-Critical,A320,Intermittent,574.41,3,54,9698.0
+PN-10282,35,Oxygen,Repairable,AOG-Critical,B737,Intermittent,1124.65,4,22,17401.0
+PN-10283,38,Water/Waste,Rotable,Routine,A320,Smooth,859.15,16,26,6331.0
+PN-10284,25,Equipment/Furnishings,Repairable,Routine,A320,Erratic,1172.32,6,55,3417.0
+PN-10285,72,Engine - Turbine/Turboprop,Repairable,Essential,B787,Intermittent,5013.68,3,67,4670.0
+PN-10286,23,Communications,Rotable,Deferrable,A320,Lumpy,4525.56,8,28,5345.0
+PN-10287,25,Equipment/Furnishings,Expendable,AOG-Critical,B737,Lumpy,441.85,4,68,13895.0
+PN-10288,22,Auto Flight,Expendable,Routine,B777,Erratic,52.32,3,24,5734.0
+PN-10289,78,Exhaust,Expendable,AOG-Critical,A321,Lumpy,137.03,2,74,13831.0
+PN-10290,78,Exhaust,Repairable,Routine,A330,Intermittent,3797.44,3,55,9156.0
+PN-10291,79,Oil,Repairable,Deferrable,B737,Intermittent,2180.74,8,52,7973.0
+PN-10292,28,Fuel,Expendable,Essential,B737,Lumpy,219.28,2,35,11808.0
+PN-10293,49,Airborne Auxiliary Power,Repairable,Routine,B737,Intermittent,95.55,2,25,4870.0
+PN-10294,22,Auto Flight,Repairable,Routine,A330,Lumpy,6058.79,2,17,8027.0
+PN-10295,25,Equipment/Furnishings,Expendable,Deferrable,B777,Lumpy,10.39,1,27,4413.0
+PN-10296,34,Navigation,Repairable,Routine,A320,Intermittent,14904.89,4,38,2049.0
+PN-10297,52,Doors,Repairable,Essential,A320,Intermittent,3962.38,6,20,8739.0
+PN-10298,22,Auto Flight,Rotable,Essential,A320,Erratic,38082.23,16,59,13873.0
+PN-10299,27,Flight Controls,Repairable,Essential,A350,Lumpy,963.04,4,57,7993.0
+PN-10300,77,Engine Indicating,Rotable,Deferrable,A330,Intermittent,115915.11,4,36,4684.0
+PN-10301,49,Airborne Auxiliary Power,Expendable,Deferrable,B737,Intermittent,577.33,2,63,6427.0
+PN-10302,49,Airborne Auxiliary Power,Repairable,Essential,B777,Lumpy,689.32,4,61,3002.0
+PN-10303,78,Exhaust,Expendable,Routine,A330,Lumpy,366.44,2,12,2031.0
+PN-10304,25,Equipment/Furnishings,Expendable,AOG-Critical,B787,Lumpy,118.79,3,72,16834.0
+PN-10305,35,Oxygen,Expendable,Essential,A321,Lumpy,18.55,3,21,11244.0
+PN-10306,78,Exhaust,Repairable,Deferrable,B737,Intermittent,1194.57,6,37,2949.0
+PN-10307,31,Indicating/Recording Systems,Expendable,Routine,A320,Erratic,36.13,3,16,9996.0
+PN-10308,38,Water/Waste,Repairable,Deferrable,A330,Intermittent,427.74,3,75,6373.0
+PN-10309,49,Airborne Auxiliary Power,Repairable,Essential,B737,Intermittent,1466.37,6,58,13562.0
+PN-10310,21,Air Conditioning,Expendable,Routine,A320,Intermittent,110.77,2,69,9122.0
+PN-10311,80,Starting,Rotable,Routine,B737,Lumpy,8884.85,8,51,8684.0
+PN-10312,34,Navigation,Rotable,Deferrable,B737,Lumpy,4765.2,16,28,6074.0
+PN-10313,77,Engine Indicating,Expendable,Routine,A350,Intermittent,540.78,3,51,3758.0
+PN-10314,80,Starting,Expendable,AOG-Critical,A320,Lumpy,63.02,1,29,16597.0
+PN-10315,78,Exhaust,Rotable,Routine,A330,Intermittent,16826.02,10,11,9034.0
+PN-10316,52,Doors,Rotable,Deferrable,B737,Lumpy,872.89,8,71,5971.0
+PN-10317,22,Auto Flight,Expendable,Routine,A320,Intermittent,22.1,2,13,3913.0
+PN-10318,76,Engine Controls,Expendable,Routine,B787,Smooth,13.6,1,61,6979.0
+PN-10319,30,Ice and Rain Protection,Repairable,Essential,B787,Intermittent,976.17,8,32,10714.0
+PN-10320,21,Air Conditioning,Repairable,Deferrable,A320,Intermittent,2515.09,2,9,4481.0
+PN-10321,29,Hydraulic Power,Repairable,AOG-Critical,B787,Intermittent,3360.77,3,65,19236.0
+PN-10322,34,Navigation,Rotable,Essential,B737,Intermittent,939.89,4,10,8346.0
+PN-10323,32,Landing Gear,Expendable,Routine,A320,Lumpy,897.98,2,32,7273.0
+PN-10324,29,Hydraulic Power,Rotable,Deferrable,B787,Lumpy,14151.19,6,22,5155.0
+PN-10325,74,Ignition,Rotable,AOG-Critical,A320,Lumpy,19894.78,10,21,19402.0
+PN-10326,72,Engine - Turbine/Turboprop,Expendable,Deferrable,A321,Lumpy,30.16,1,47,5666.0
+PN-10327,79,Oil,Expendable,Routine,B737,Intermittent,433.49,3,40,4856.0
+PN-10328,80,Starting,Rotable,Routine,A320,Intermittent,23470.19,4,31,2233.0
+PN-10329,23,Communications,Expendable,AOG-Critical,B777,Erratic,262.74,4,38,19899.0
+PN-10330,77,Engine Indicating,Expendable,Essential,A321,Lumpy,5.47,3,57,7303.0
+PN-10331,24,Electrical Power,Expendable,Deferrable,B777,Lumpy,408.0,1,63,2546.0
+PN-10332,29,Hydraulic Power,Rotable,Deferrable,A320,Intermittent,8626.04,10,60,5061.0
+PN-10333,23,Communications,Repairable,Deferrable,A320,Intermittent,419.24,8,30,7248.0
+PN-10334,72,Engine - Turbine/Turboprop,Expendable,Deferrable,B777,Intermittent,33.63,1,50,2450.0
+PN-10335,77,Engine Indicating,Repairable,Essential,B777,Intermittent,818.36,2,31,13030.0
+PN-10336,24,Electrical Power,Expendable,Routine,A350,Erratic,106.08,1,27,9448.0
+PN-10337,72,Engine - Turbine/Turboprop,Expendable,AOG-Critical,A321,Intermittent,436.5,1,14,8008.0
+PN-10338,27,Flight Controls,Repairable,Essential,A320,Smooth,3566.62,6,73,12109.0
+PN-10339,78,Exhaust,Repairable,Essential,B737,Lumpy,573.18,3,51,12680.0
+PN-10340,27,Flight Controls,Rotable,Routine,A330,Erratic,2841.3,12,36,3339.0
+PN-10341,29,Hydraulic Power,Repairable,Routine,A321,Intermittent,299.03,8,29,3040.0
+PN-10342,25,Equipment/Furnishings,Rotable,Routine,A330,Intermittent,48939.03,8,5,2976.0
+PN-10343,78,Exhaust,Expendable,Deferrable,A320,Lumpy,400.73,1,17,2494.0
+PN-10344,71,Power Plant,Expendable,Deferrable,B737,Lumpy,232.86,2,71,4378.0
+PN-10345,24,Electrical Power,Expendable,Routine,A321,Smooth,102.71,3,62,6927.0
+PN-10346,22,Auto Flight,Repairable,Essential,B737,Lumpy,2982.94,2,69,6706.0
+PN-10347,36,Pneumatic,Expendable,Essential,B737,Intermittent,97.0,2,47,13384.0
+PN-10348,71,Power Plant,Expendable,Routine,A321,Lumpy,27.85,2,71,8805.0
+PN-10349,74,Ignition,Expendable,AOG-Critical,A350,Smooth,90.39,2,57,9602.0
+PN-10350,79,Oil,Repairable,Deferrable,A321,Lumpy,432.02,3,54,4029.0
+PN-10351,52,Doors,Expendable,AOG-Critical,A320,Intermittent,220.5,4,58,16002.0
+PN-10352,74,Ignition,Rotable,Essential,B737,Erratic,4202.73,8,61,3138.0
+PN-10353,30,Ice and Rain Protection,Rotable,Deferrable,A320,Intermittent,4236.19,10,45,2431.0
+PN-10354,38,Water/Waste,Repairable,Essential,A320,Intermittent,719.2,4,26,4727.0
+PN-10355,74,Ignition,Rotable,AOG-Critical,B787,Intermittent,4004.81,4,23,14355.0
+PN-10356,35,Oxygen,Repairable,Routine,B737,Intermittent,345.48,4,74,4503.0
+PN-10357,24,Electrical Power,Rotable,AOG-Critical,A320,Erratic,173489.26,8,57,19171.0
+PN-10358,73,Engine Fuel and Control,Expendable,AOG-Critical,B737,Intermittent,42.3,2,49,13744.0
+PN-10359,38,Water/Waste,Repairable,Deferrable,A320,Lumpy,1569.31,4,36,5707.0
+PN-10360,36,Pneumatic,Expendable,Routine,B737,Intermittent,152.25,3,77,5507.0
+PN-10361,52,Doors,Repairable,Routine,A350,Erratic,2435.38,6,44,7232.0
+PN-10362,72,Engine - Turbine/Turboprop,Expendable,Routine,A320,Erratic,31.57,1,44,4839.0
+PN-10363,49,Airborne Auxiliary Power,Expendable,Routine,A350,Smooth,24.39,4,14,9080.0
+PN-10364,52,Doors,Repairable,Essential,B737,Intermittent,338.02,8,12,3822.0
+PN-10365,30,Ice and Rain Protection,Repairable,Essential,B737,Intermittent,1983.35,6,58,13318.0
+PN-10366,49,Airborne Auxiliary Power,Expendable,Routine,A350,Erratic,36.28,2,41,8272.0
+PN-10367,49,Airborne Auxiliary Power,Expendable,Essential,A321,Smooth,1186.86,2,11,3674.0
+PN-10368,73,Engine Fuel and Control,Rotable,Essential,A320,Lumpy,12907.32,16,33,3846.0
+PN-10369,30,Ice and Rain Protection,Expendable,Routine,B737,Lumpy,71.48,2,72,4313.0
+PN-10370,24,Electrical Power,Expendable,Essential,A330,Intermittent,59.91,3,59,5593.0
+PN-10371,74,Ignition,Expendable,Essential,A321,Intermittent,113.67,4,65,7713.0
+PN-10372,52,Doors,Expendable,Essential,A330,Lumpy,55.35,2,34,8271.0
+PN-10373,73,Engine Fuel and Control,Repairable,Routine,A321,Lumpy,4035.66,3,27,5437.0
+PN-10374,74,Ignition,Rotable,Routine,B737,Intermittent,9535.49,8,40,2947.0
+PN-10375,30,Ice and Rain Protection,Expendable,Essential,A320,Intermittent,170.28,1,19,11993.0
+PN-10376,76,Engine Controls,Expendable,Routine,A321,Intermittent,1489.88,3,69,3629.0
+PN-10377,22,Auto Flight,Repairable,Deferrable,A350,Intermittent,2669.41,2,53,4470.0
+PN-10378,27,Flight Controls,Rotable,Routine,A320,Intermittent,11401.45,8,57,8212.0
+PN-10379,38,Water/Waste,Expendable,Routine,A321,Lumpy,117.35,1,30,4026.0
+PN-10380,77,Engine Indicating,Expendable,Routine,B737,Intermittent,60.32,1,75,5610.0
+PN-10381,52,Doors,Expendable,Essential,A321,Smooth,149.18,2,61,12642.0
+PN-10382,52,Doors,Repairable,Essential,A320,Intermittent,3203.11,6,61,14780.0
+PN-10383,49,Airborne Auxiliary Power,Repairable,Deferrable,A321,Lumpy,855.1,4,71,2541.0
+PN-10384,73,Engine Fuel and Control,Expendable,Routine,B737,Intermittent,45.66,2,34,3741.0
+PN-10385,38,Water/Waste,Repairable,Routine,A320,Erratic,1587.78,2,40,8132.0
+PN-10386,78,Exhaust,Repairable,Routine,A321,Intermittent,3528.58,3,13,4776.0
+PN-10387,26,Fire Protection,Expendable,Deferrable,B737,Intermittent,22.71,3,40,6968.0
+PN-10388,72,Engine - Turbine/Turboprop,Expendable,Essential,A321,Lumpy,25.24,2,44,10197.0
+PN-10389,22,Auto Flight,Repairable,Deferrable,A330,Erratic,941.91,2,6,1936.0
+PN-10390,52,Doors,Expendable,Routine,B737,Intermittent,17.5,4,65,4596.0
+PN-10391,33,Lights,Expendable,Routine,A320,Intermittent,342.19,3,78,7296.0
+PN-10392,35,Oxygen,Expendable,Routine,B787,Lumpy,272.86,1,12,2249.0
+PN-10393,73,Engine Fuel and Control,Rotable,Deferrable,A320,Intermittent,35582.42,4,54,6486.0
+PN-10394,77,Engine Indicating,Expendable,Deferrable,A321,Lumpy,44.54,2,42,1664.0
+PN-10395,71,Power Plant,Expendable,Deferrable,B737,Intermittent,236.74,1,39,4998.0
+PN-10396,36,Pneumatic,Repairable,AOG-Critical,A320,Intermittent,2524.66,3,52,9683.0
+PN-10397,73,Engine Fuel and Control,Rotable,Routine,A350,Lumpy,74431.92,4,62,6507.0
+PN-10398,36,Pneumatic,Repairable,Essential,A321,Smooth,6946.98,4,65,7671.0
+PN-10399,71,Power Plant,Repairable,Deferrable,A321,Intermittent,4020.21,4,67,2481.0
+PN-10400,52,Doors,Repairable,Routine,B777,Intermittent,1819.85,8,65,7398.0
+PN-10401,74,Ignition,Expendable,AOG-Critical,B777,Intermittent,263.23,1,63,15457.0
+PN-10402,29,Hydraulic Power,Rotable,Routine,B737,Lumpy,2688.64,4,51,5623.0
+PN-10403,34,Navigation,Rotable,AOG-Critical,B737,Intermittent,8374.99,10,16,11823.0
+PN-10404,71,Power Plant,Expendable,Routine,A321,Intermittent,129.28,1,40,2628.0
+PN-10405,31,Indicating/Recording Systems,Repairable,Essential,A320,Smooth,571.91,4,34,13988.0
+PN-10406,71,Power Plant,Expendable,Deferrable,A350,Erratic,231.43,1,77,7981.0
+PN-10407,71,Power Plant,Rotable,Routine,A350,Intermittent,5088.92,16,24,4780.0
+PN-10408,72,Engine - Turbine/Turboprop,Expendable,Deferrable,B737,Lumpy,66.1,1,62,2606.0
+PN-10409,71,Power Plant,Rotable,Deferrable,A320,Intermittent,5454.01,8,41,6315.0
+PN-10410,28,Fuel,Rotable,AOG-Critical,A320,Erratic,2956.87,4,14,8847.0
+PN-10411,38,Water/Waste,Repairable,Essential,B787,Erratic,3247.01,6,68,3918.0
+PN-10412,76,Engine Controls,Rotable,AOG-Critical,A321,Intermittent,67672.43,6,14,12583.0
+PN-10413,34,Navigation,Repairable,AOG-Critical,A320,Lumpy,2397.51,4,61,15728.0
+PN-10414,72,Engine - Turbine/Turboprop,Repairable,Routine,B737,Intermittent,5594.13,6,19,2360.0
+PN-10415,74,Ignition,Expendable,Deferrable,B777,Intermittent,250.27,1,77,4448.0
+PN-10416,32,Landing Gear,Expendable,Routine,A320,Lumpy,157.63,2,66,9226.0
+PN-10417,33,Lights,Expendable,Essential,A330,Intermittent,31.09,2,58,5758.0
+PN-10418,27,Flight Controls,Expendable,Routine,A320,Erratic,65.03,3,7,3463.0
+PN-10419,22,Auto Flight,Expendable,Routine,A330,Intermittent,127.05,2,10,4996.0
+PN-10420,23,Communications,Expendable,Deferrable,A321,Lumpy,5.59,4,45,2769.0
+PN-10421,72,Engine - Turbine/Turboprop,Expendable,Essential,A320,Smooth,315.18,3,53,10528.0
+PN-10422,33,Lights,Rotable,Essential,A330,Erratic,4025.07,16,27,6498.0
+PN-10423,28,Fuel,Expendable,Routine,A330,Smooth,27.79,3,65,3236.0
+PN-10424,22,Auto Flight,Expendable,Routine,B737,Lumpy,806.17,2,47,2244.0
+PN-10425,72,Engine - Turbine/Turboprop,Rotable,Routine,A320,Intermittent,4691.07,8,57,2402.0
+PN-10426,71,Power Plant,Repairable,Deferrable,B777,Lumpy,3460.71,3,36,1347.0
+PN-10427,21,Air Conditioning,Expendable,Deferrable,A320,Lumpy,280.36,3,46,3745.0
+PN-10428,31,Indicating/Recording Systems,Repairable,Routine,A320,Intermittent,2212.82,8,54,4544.0
+PN-10429,33,Lights,Expendable,Routine,B737,Erratic,124.26,2,53,4658.0
+PN-10430,22,Auto Flight,Expendable,Deferrable,A320,Intermittent,15.51,3,41,7194.0
+PN-10431,24,Electrical Power,Repairable,Deferrable,A321,Intermittent,5692.35,4,64,7931.0
+PN-10432,78,Exhaust,Repairable,AOG-Critical,A321,Lumpy,2511.81,8,8,7977.0
+PN-10433,79,Oil,Rotable,Essential,A330,Erratic,13812.97,16,29,13959.0
+PN-10434,23,Communications,Rotable,Routine,A350,Lumpy,23388.63,16,9,2918.0
+PN-10435,79,Oil,Rotable,AOG-Critical,A320,Intermittent,82884.84,8,38,17842.0
+PN-10436,49,Airborne Auxiliary Power,Expendable,Deferrable,A321,Intermittent,26.13,1,25,4010.0
+PN-10437,38,Water/Waste,Expendable,Essential,A321,Erratic,36.13,3,56,11807.0
+PN-10438,77,Engine Indicating,Rotable,AOG-Critical,A330,Lumpy,60867.1,10,22,6588.0
+PN-10439,23,Communications,Repairable,Routine,B777,Intermittent,775.64,3,76,8612.0
+PN-10440,25,Equipment/Furnishings,Rotable,AOG-Critical,A321,Smooth,2417.53,12,6,16083.0
+PN-10441,80,Starting,Expendable,Deferrable,A320,Lumpy,174.89,3,76,3075.0
+PN-10442,73,Engine Fuel and Control,Repairable,Routine,A320,Lumpy,1017.86,2,5,5663.0
+PN-10443,28,Fuel,Expendable,Routine,A320,Intermittent,47.95,3,26,5819.0
+PN-10444,33,Lights,Expendable,Essential,A320,Intermittent,137.58,2,49,13091.0
+PN-10445,34,Navigation,Rotable,AOG-Critical,A330,Lumpy,9425.25,12,35,9549.0
+PN-10446,23,Communications,Rotable,Routine,A320,Intermittent,28809.97,8,10,3290.0
+PN-10447,49,Airborne Auxiliary Power,Expendable,Routine,B737,Smooth,112.56,2,19,6902.0
+PN-10448,31,Indicating/Recording Systems,Rotable,Routine,A350,Erratic,21836.55,4,28,6895.0
+PN-10449,38,Water/Waste,Expendable,Deferrable,A321,Lumpy,115.94,2,18,2947.0
+PN-10450,35,Oxygen,Repairable,Essential,A320,Lumpy,1646.84,3,70,9684.0
+PN-10451,73,Engine Fuel and Control,Repairable,Deferrable,A320,Intermittent,1064.93,6,75,7540.0
+PN-10452,52,Doors,Repairable,Essential,A320,Smooth,1451.82,6,43,11778.0
+PN-10453,31,Indicating/Recording Systems,Expendable,Routine,A320,Lumpy,78.78,1,8,8145.0
+PN-10454,26,Fire Protection,Repairable,Deferrable,A321,Intermittent,3543.76,3,67,2904.0
+PN-10455,31,Indicating/Recording Systems,Expendable,Routine,A321,Erratic,6.38,1,36,7369.0
+PN-10456,26,Fire Protection,Repairable,AOG-Critical,A321,Intermittent,7984.19,8,18,15321.0
+PN-10457,38,Water/Waste,Repairable,Essential,A320,Lumpy,1419.84,4,34,12315.0
+PN-10458,22,Auto Flight,Rotable,Essential,B737,Lumpy,10581.65,6,45,3629.0
+PN-10459,23,Communications,Expendable,Essential,A320,Smooth,28.97,3,49,6655.0
+PN-10460,38,Water/Waste,Rotable,Deferrable,B777,Intermittent,1351.23,4,20,1079.0
+PN-10461,32,Landing Gear,Repairable,Essential,B737,Intermittent,6756.78,4,6,3743.0
+PN-10462,79,Oil,Expendable,Essential,B777,Intermittent,34.98,2,47,12668.0
+PN-10463,38,Water/Waste,Rotable,Deferrable,B787,Smooth,14529.19,8,51,7095.0
+PN-10464,74,Ignition,Rotable,Routine,A320,Intermittent,1314.75,8,50,6422.0
+PN-10465,33,Lights,Repairable,Deferrable,B737,Erratic,920.13,2,74,3426.0
+PN-10466,22,Auto Flight,Repairable,Routine,A320,Smooth,8671.49,3,66,9808.0
+PN-10467,24,Electrical Power,Expendable,Deferrable,A320,Erratic,24.8,2,74,7126.0
+PN-10468,35,Oxygen,Expendable,Routine,B737,Intermittent,185.43,2,62,2280.0
+PN-10469,32,Landing Gear,Rotable,Deferrable,A320,Lumpy,5796.25,16,35,5616.0
+PN-10470,77,Engine Indicating,Repairable,Routine,B787,Lumpy,335.39,4,21,6006.0
+PN-10471,36,Pneumatic,Rotable,Deferrable,B737,Lumpy,1121.43,10,8,5222.0
+PN-10472,35,Oxygen,Expendable,AOG-Critical,B777,Lumpy,21.57,3,6,14037.0
+PN-10473,24,Electrical Power,Rotable,AOG-Critical,B787,Intermittent,5928.97,12,16,7277.0
+PN-10474,79,Oil,Repairable,Routine,B737,Intermittent,344.94,6,14,7539.0
+PN-10475,28,Fuel,Repairable,Routine,A350,Intermittent,1070.15,4,26,2976.0
+PN-10476,49,Airborne Auxiliary Power,Rotable,Routine,A321,Intermittent,10395.98,8,77,6982.0
+PN-10477,77,Engine Indicating,Repairable,AOG-Critical,A350,Intermittent,3082.47,4,28,12389.0
+PN-10478,22,Auto Flight,Expendable,Deferrable,A320,Lumpy,1025.86,2,14,4827.0
+PN-10479,25,Equipment/Furnishings,Expendable,Essential,B777,Intermittent,1680.28,1,40,14897.0
+PN-10480,73,Engine Fuel and Control,Repairable,Routine,B777,Lumpy,5897.21,8,71,4029.0
+PN-10481,33,Lights,Repairable,Essential,A350,Intermittent,5771.57,4,74,11216.0
+PN-10482,38,Water/Waste,Expendable,Routine,A321,Erratic,127.38,1,47,2000.0
+PN-10483,23,Communications,Repairable,Essential,A320,Intermittent,3451.24,6,39,13785.0
+PN-10484,26,Fire Protection,Expendable,Essential,A350,Lumpy,40.03,2,48,4160.0
+PN-10485,31,Indicating/Recording Systems,Expendable,Deferrable,A321,Smooth,11.96,1,24,5079.0
+PN-10486,21,Air Conditioning,Repairable,Routine,A321,Intermittent,2371.77,4,37,7059.0
+PN-10487,23,Communications,Expendable,AOG-Critical,A330,Intermittent,439.57,3,23,15954.0
+PN-10488,33,Lights,Expendable,Routine,B737,Intermittent,786.09,1,76,3004.0
+PN-10489,30,Ice and Rain Protection,Repairable,Essential,A320,Intermittent,1739.38,6,60,3684.0
+PN-10490,27,Flight Controls,Expendable,Routine,A320,Smooth,159.22,2,23,7514.0
+PN-10491,34,Navigation,Repairable,Routine,A320,Lumpy,1510.8,4,56,7842.0
+PN-10492,76,Engine Controls,Rotable,Deferrable,B787,Lumpy,5772.26,16,41,1147.0
+PN-10493,76,Engine Controls,Expendable,Deferrable,B737,Intermittent,514.75,4,8,3772.0
+PN-10494,38,Water/Waste,Expendable,Essential,A321,Intermittent,33.74,2,61,7534.0
+PN-10495,73,Engine Fuel and Control,Repairable,AOG-Critical,A320,Smooth,5127.43,4,71,11776.0
+PN-10496,71,Power Plant,Repairable,AOG-Critical,B777,Intermittent,8808.54,4,42,11831.0
+PN-10497,77,Engine Indicating,Expendable,Routine,B787,Erratic,16.83,2,11,6202.0
+PN-10498,49,Airborne Auxiliary Power,Repairable,Essential,A320,Intermittent,2998.79,3,8,9628.0
+PN-10499,49,Airborne Auxiliary Power,Expendable,Routine,A321,Lumpy,30.19,2,47,6527.0
